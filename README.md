@@ -1,2 +1,2 @@
 # HarmoniaBlogs
- Site de para posts do Harmonia
+ Site para os postes do harmonia
