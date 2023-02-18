@@ -1,5 +1,10 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300&family=Libre+Franklin:wght@200;300&family=Titillium+Web:wght@300;400;600&display=swap');
 
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 header{
     text-align: center;
     margin: auto;
@@ -12,7 +17,11 @@ header{
 header > #about > a{
     margin: 5px;
     text-decoration: none;
-    color: black;
+    color: rgb(136, 128, 128);
+}
+header > h1{
+    font-family: 'barlow' 'Times New Roman', Times, serif;
+    font-size: 40px;
 }
 #about > a:hover{
     text-decoration: underline;
@@ -28,10 +37,13 @@ main > section{
 }
 h1{
     font-size: 30px;
+    font-weight: 200;
 }
 p{
     font-size: 18px;
     line-height: 28px;
+    font-family: 'Libre Franklin', sans-serif, 'Courier New', Courier, monospace;
+
 }
 a{
     font-size: 18px;
@@ -53,5 +65,7 @@ footer{
 footer > a > img{
     padding: 10px;
     width: 32px;
-    
+}
+#youtube > img{
+    width: 36px;
 }
