@@ -17,4 +17,7 @@
         width: 720px;
         margin: auto;
     }
+    #apoia > h1{
+        margin-top: 50px;
+    }
 }

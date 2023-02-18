@@ -36,7 +36,7 @@ main > section{
     padding-bottom: 25px;
 }
 h1{
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 200;
 }
 p{
@@ -68,4 +68,13 @@ footer > a > img{
 }
 #youtube > img{
     width: 36px;
+}
+#apoia > h1{
+    display: block;
+    margin: auto;
+}
+#monero{
+    display: block;
+    margin: auto;
+    margin-top: 50px;
 }
