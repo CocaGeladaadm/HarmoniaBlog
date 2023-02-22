@@ -39,6 +39,9 @@ h1{
     font-size: 25px;
     font-weight: 200;
 }
+h2, h3, h4{
+    font-family: 'barlow' 'Times New Roman', Times, serif;
+}
 p{
     font-size: 18px;
     line-height: 28px;
