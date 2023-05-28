@@ -14,27 +14,35 @@ header{
     border-bottom: 1px solid rgba(0, 0, 0, 0.322);
      
 }
+
 header > #about > a{
     margin: 5px;
     text-decoration: none;
     color: rgb(136, 128, 128);
 }
+
 header > h1{
     font-family: 'barlow' 'Times New Roman', Times, serif;
     font-size: 40px;
 }
+
 #about > a:hover{
     text-decoration: underline;
 }
+
 main{
     margin: auto;
     
 }
 
+#destaque{
+    width: 420px;
+}
+
 main img{
     margin-top: 10px;
     margin-bottom: 10px;
-    width: 300px;
+    width: 380px;
 }
 
 main > section{
@@ -42,27 +50,36 @@ main > section{
     padding-left: 20px;
     padding-bottom: 25px;
 }
+
 h1{
-    font-size: 25px;
-    font-weight: 200;
+    font-size: 4.3vh;
+    font-weight: 400;
+    margin-top: 50px;
 }
+
 h2, h3, h4{
     font-family: 'barlow' 'Times New Roman', Times, serif;
+    font-weight: 200;
+    margin-top: 50px;
 }
+
 p{
     font-size: 18px;
     line-height: 28px;
     font-family: 'Libre Franklin', sans-serif, 'Courier New', Courier, monospace;
 
 }
+
 a{
     font-size: 18px;
     text-decoration: none;
     color: #4183C4;
 }
+
 a:hover{
     text-decoration: underline;
 }
+
 footer{
     display: flex;
     justify-content: center;
@@ -72,17 +89,21 @@ footer{
     margin-top: 50px;
     border-top: 1px solid rgba(0, 0, 0, 0.322);
 }
+
 footer > a > img{
     padding: 10px;
     width: 32px;
 }
+
 #youtube > img{
     width: 36px;
 }
+
 #apoia > h1{
     display: block;
     margin: auto;
 }
+
 #monero{
     display: block;
     margin: auto;
