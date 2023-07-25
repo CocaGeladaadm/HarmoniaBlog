@@ -35,4 +35,8 @@
     main img{
         width: 600px;
     }
+
+    h1{
+        font-size: 5.5vh;
+    }
 }
