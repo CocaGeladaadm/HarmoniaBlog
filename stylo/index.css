@@ -54,7 +54,7 @@ main > section{
 }
 
 h1{
-    font-size: 4.3vh;
+    font-size: 3.8vh;
     font-weight: 400;
     margin-top: 50px;
 }
@@ -114,6 +114,7 @@ footer > a > img{
 .section-infos > a > h1{
     margin: 20px 0px;
     color: black;
+    text-align: left;
 }
 
 .section-infos > a > h1:hover{
