@@ -5,6 +5,7 @@
 *{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
 header{
     text-align: center;
     margin: auto;
@@ -32,7 +33,6 @@ header > h1{
 
 main{
     margin: auto;
-    
 }
 
 #destaque{
@@ -46,9 +46,11 @@ main img{
 }
 
 main > section{
-    text-align: left;
-    padding-left: 20px;
+    text-align: justify;
+    width: 350px;
+    padding-left: 25px;
     padding-bottom: 25px;
+    margin-bottom: 40px;
 }
 
 h1{
@@ -67,7 +69,6 @@ p{
     font-size: 18px;
     line-height: 28px;
     font-family: 'Libre Franklin', sans-serif, 'Courier New', Courier, monospace;
-
 }
 
 a{
@@ -108,4 +109,13 @@ footer > a > img{
     display: block;
     margin: auto;
     margin-top: 50px;
+}
+
+.section-infos > a > h1{
+    margin: 20px 0px;
+    color: black;
+}
+
+.section-infos > a > h1:hover{
+    color: #4183C4;
 }
