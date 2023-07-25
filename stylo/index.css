@@ -115,6 +115,7 @@ footer > a > img{
     margin: 20px 0px;
     color: black;
     text-align: left;
+    font-size: 3.8vh;
 }
 
 .section-infos > a > h1:hover{
